@@ -6,3 +6,5 @@ It also displays the path requested.
 
 ## Usage
 `docker run --rm -it -e HOST="Server 1" -p 80:80 mattreid1/http-identifier`
+
+![Print](/demo.png)
